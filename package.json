@@ -1,0 +1,12 @@
+{
+  "name": "iot-temperature-sensor-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "restify": "2.8.3",
+    "moment": "2.8.3"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
